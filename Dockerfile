@@ -20,7 +20,7 @@ FROM eclipse-temurin:21-jdk
 WORKDIR /app
 
 # Copy jar from build stage
-COPY --from=build /app/target/http4j-hello-1.0-SNAPSHOT.jar ./app.jar
+COPY --from=build /app/target/helidon-demo-1.0.0.jar ./app.jar
 
 # Expose port
 EXPOSE 8080
