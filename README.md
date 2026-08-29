@@ -6,3 +6,4 @@ Repos with docker push:
 - https://github.com/aqwertyuiop48/my_angular_app
 - https://github.com/aqwertyuiop48/nextjs_app
 - https://github.com/aqwertyuiop48/nextjs_news_search_microservices
+
